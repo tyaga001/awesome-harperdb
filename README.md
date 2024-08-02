@@ -23,7 +23,6 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Documentation](https://docs.harperdb.io/) - Access comprehensive documentation to understand HarperDB's capabilities and how to use them.
 - [API Reference](https://docs.harperdb.io/api/) - Explore the API reference to integrate HarperDB with your applications seamlessly.
 - [GitHub](https://github.com/HarperDB) - Discover official HarperDB repositories on GitHub for various projects, examples, and tools.
-- [Community Forum](https://community.harperdb.io/) - Join the community forum to ask questions, share knowledge, and connect with other HarperDB users.
 
 ## Getting Started
 
