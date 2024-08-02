@@ -23,6 +23,14 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Documentation](https://docs.harperdb.io/) - Access comprehensive documentation to understand HarperDB's capabilities and how to use them.
 - [API Reference](https://docs.harperdb.io/api/) - Explore the API reference to integrate HarperDB with your applications seamlessly.
 - [GitHub](https://github.com/HarperDB) - Discover official HarperDB repositories on GitHub for various projects, examples, and tools.
+- [Tutorials](https://www.harperdb.io/development/tutorials) - Access a collection of tutorials to help you get started and advance your knowledge with HarperDB.
+- [Blog](https://www.harperdb.io/blog) - Read blog posts covering various topics, use cases, and insights about HarperDB.
+- [Example Apps](https://www.harperdb.io/development/topics/example-app) - Explore example applications to see how HarperDB can be used in different scenarios.
+- [Support](https://harperdbhelp.zendesk.com/hc/en-us/requests/new) - Submit support requests and get help with any issues or questions you may have.
+- [Studio Sign-Up](https://studio.harperdb.io/sign-up) - Sign up for HarperDB Studio to manage your instances and interact with your data through a web-based interface.
+- [Docker Hub](https://hub.docker.com/r/harperdb/harperdb) - Find the HarperDB Docker image to deploy HarperDB containers easily.
+- [npm Package](https://www.npmjs.com/package/harperdb) - Utilize the HarperDB npm package to integrate HarperDB with your Node.js applications.
+
 
 ## Getting Started
 
