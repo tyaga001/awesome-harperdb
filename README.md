@@ -19,18 +19,18 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Official Resources
 
-- [HarperDB Website](https://www.harperdb.io/) - Explore the main website to learn more about HarperDB, its features, and use cases.
-- [HarperDB Documentation](https://docs.harperdb.io/) - Access comprehensive documentation to understand HarperDB's capabilities and how to use them.
-- [HarperDB API Reference](https://docs.harperdb.io/api/) - Explore the API reference to integrate HarperDB with your applications seamlessly.
-- [HarperDB GitHub](https://github.com/HarperDB) - Discover official HarperDB repositories on GitHub for various projects, examples, and tools.
-- [HarperDB Community Forum](https://community.harperdb.io/) - Join the community forum to ask questions, share knowledge, and connect with other HarperDB users.
+- [Website](https://www.harperdb.io/) - Explore the main website to learn more about HarperDB, its features, and use cases.
+- [Documentation](https://docs.harperdb.io/) - Access comprehensive documentation to understand HarperDB's capabilities and how to use them.
+- [API Reference](https://docs.harperdb.io/api/) - Explore the API reference to integrate HarperDB with your applications seamlessly.
+- [GitHub](https://github.com/HarperDB) - Discover official HarperDB repositories on GitHub for various projects, examples, and tools.
+- [Community Forum](https://community.harperdb.io/) - Join the community forum to ask questions, share knowledge, and connect with other HarperDB users.
 
 ## Getting Started
 
 - [Quick Start Guide](https://docs.harperdb.io/docs/quick-start-guide) - Follow this quickstart guide to get started with HarperDB and set up your environment.
 - [Installation Instructions](https://docs.harperdb.io/docs/installation) - Learn how to install HarperDB on different platforms and environments.
 - [Hello World with HarperDB](https://docs.harperdb.io/docs/hello-world) - Create your first HarperDB application with this step-by-step Hello World guide.
-- [HarperDB Studio](https://studio.harperdb.io/) - Use HarperDB Studio, a web-based interface, to manage and interact with your HarperDB instances.
+- [Studio](https://studio.harperdb.io/) - Use HarperDB Studio, a web-based interface, to manage and interact with your HarperDB instances.
 - [Sample Projects](https://github.com/HarperDB/samples) - Explore sample projects on GitHub to see HarperDB in action and learn from practical examples.
 
 ## Examples
@@ -68,18 +68,18 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Community
 
-- [HarperDB Community Forum](https://community.harperdb.io/) - Join the forum to engage with the HarperDB community, ask questions, and share insights.
-- [HarperDB Discord](https://discord.gg/harperdb) - Connect with other users and developers on the HarperDB Discord server for real-time discussions.
-- [HarperDB Slack](https://harperdb.slack.com/) - Participate in the HarperDB Slack community for support, networking, and collaboration.
-- [HarperDB Reddit](https://www.reddit.com/r/HarperDB/) - Join the HarperDB subreddit to discuss topics, share projects, and get the latest news.
+- [Community Forum](https://community.harperdb.io/) - Join the forum to engage with the HarperDB community, ask questions, and share insights.
+- [Discord](https://discord.gg/harperdb) - Connect with other users and developers on the HarperDB Discord server for real-time discussions.
+- [Slack](https://harperdb.slack.com/) - Participate in the HarperDB Slack community for support, networking, and collaboration.
+- [Reddit](https://www.reddit.com/r/HarperDB/) - Join the HarperDB subreddit to discuss topics, share projects, and get the latest news.
 
 ## Tools and Integrations
 
-- [HarperDB CLI](https://github.com/HarperDB/harperdb-cli) - Learn how to use the HarperDB CLI for managing your databases and automating workflows.
-- [HarperDB Studio](https://studio.harperdb.io/) - A web-based interface for managing HarperDB instances and performing database operations.
-- [HarperDB Node.js SDK](https://github.com/HarperDB/nodejs-sdk) - Utilize the HarperDB Node.js SDK to integrate HarperDB functionalities into your Node.js applications.
-- [HarperDB Python SDK](https://github.com/HarperDB/python-sdk) - Access the HarperDB Python SDK to seamlessly integrate HarperDB with Python projects.
-- [HarperDB GraphQL Integration](https://github.com/HarperDB/graphql-integration) - Learn how to integrate GraphQL with HarperDB for advanced query capabilities.
+- [CLI](https://github.com/HarperDB/harperdb-cli) - Learn how to use the HarperDB CLI for managing your databases and automating workflows.
+- [Studio](https://studio.harperdb.io/) - A web-based interface for managing HarperDB instances and performing database operations.
+- [Node.js SDK](https://github.com/HarperDB/nodejs-sdk) - Utilize the HarperDB Node.js SDK to integrate HarperDB functionalities into your Node.js applications.
+- [Python SDK](https://github.com/HarperDB/python-sdk) - Access the HarperDB Python SDK to seamlessly integrate HarperDB with Python projects.
+- [GraphQL Integration](https://github.com/HarperDB/graphql-integration) - Learn how to integrate GraphQL with HarperDB for advanced query capabilities.
 
 
 
