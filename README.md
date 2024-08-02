@@ -36,9 +36,9 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - [Quick Start Guide](https://docs.harperdb.io/docs/getting-started) - Follow this quickstart guide to get started with HarperDB and set up your environment.
 - [Installation Instructions](https://docs.harperdb.io/docs/deployments/install-harperdb) - Learn how to install HarperDB on different platforms and environments.
-- [Hello World with HarperDB](https://docs.harperdb.io/docs/hello-world) - Create your first HarperDB application with this step-by-step Hello World guide.
+- [Hello World with HarperDB](https://dzone.com/articles/harperdb-java-hello-world) - Create your first HarperDB application with this step-by-step Hello World guide.
 - [Studio](https://studio.harperdb.io/) - Use HarperDB Studio, a web-based interface, to manage and interact with your HarperDB instances.
-- [Sample Projects](https://github.com/HarperDB/samples) - Explore sample projects on GitHub to see HarperDB in action and learn from practical examples.
+- [Sample Projects](https://www.harperdb.io/development/topics/example-app) - Explore sample projects to see HarperDB in action and learn from practical examples.
 
 ## Examples
 
