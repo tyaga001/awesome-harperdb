@@ -32,10 +32,10 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [npm Package](https://www.npmjs.com/package/harperdb) - Utilize the HarperDB npm package to integrate HarperDB with your Node.js applications.
 
 
-## Getting Started
+## Getting Started    
 
-- [Quick Start Guide](https://docs.harperdb.io/docs/deployments/install-harperdb) - Follow this quickstart guide to get started with HarperDB and set up your environment.
-- [Installation Instructions](https://docs.harperdb.io/docs/installation) - Learn how to install HarperDB on different platforms and environments.
+- [Quick Start Guide](https://docs.harperdb.io/docs/getting-started) - Follow this quickstart guide to get started with HarperDB and set up your environment.
+- [Installation Instructions](https://docs.harperdb.io/docs/deployments/install-harperdb) - Learn how to install HarperDB on different platforms and environments.
 - [Hello World with HarperDB](https://docs.harperdb.io/docs/hello-world) - Create your first HarperDB application with this step-by-step Hello World guide.
 - [Studio](https://studio.harperdb.io/) - Use HarperDB Studio, a web-based interface, to manage and interact with your HarperDB instances.
 - [Sample Projects](https://github.com/HarperDB/samples) - Explore sample projects on GitHub to see HarperDB in action and learn from practical examples.
